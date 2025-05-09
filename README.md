@@ -1,12 +1,50 @@
-# React + Vite
+# 🕒 React Digital Clock App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and beginner-friendly React app that displays a real-time digital clock using `useState` and `useEffect`. This project is great for learning how to manage state and side effects in React.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+https://lucky-flan-ae3184.netlify.app/
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Preview
+
+![Digital Clock Preview](preview.png) <!-- Replace with actual image path -->
+
+---
+
+## ✨ Features
+
+- Live digital clock that updates every second
+- Uses `setInterval` and JavaScript `Date` object
+- Built with functional components and React Hooks
+- Clean and simple UI
+
+---
+
+## 🛠️ Technologies Used
+
+- React JS (Create React App)
+- JavaScript (ES6)
+- HTML5 & CSS3
+- Google Fonts (Optional - Orbitron)
+
+---
+
+## 📦 Installation
+
+```bash
+# Clone the repo
+git clone https://github.com/yourusername/react-digital-clock.git
+
+# Navigate to the folder
+cd react-digital-clock
+
+# Install dependencies
+npm install
+
+# Run the app
+npm start
