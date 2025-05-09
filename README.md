@@ -12,7 +12,7 @@ https://lucky-flan-ae3184.netlify.app/
 
 ## 📸 Preview
 
-![Digital Clock Preview](preview.png) <!-- Replace with actual image path -->
+![Digital Clock Preview](https://github.com/md-habib-rahman/digital-clock-react-project/blob/main/src/assets/digital_clock.png)
 
 ---
 
@@ -38,13 +38,13 @@ https://lucky-flan-ae3184.netlify.app/
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/react-digital-clock.git
-
+git clone https://github.com/md-habib-rahman/digital-clock-react-project.git
 # Navigate to the folder
-cd react-digital-clock
+cd digital-clock-react-project
 
 # Install dependencies
 npm install
 
 # Run the app
-npm start
+npm run dev
+
